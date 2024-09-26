@@ -1,3 +1,4 @@
+# 링크 : https://minitab-exchange-tan.vercel.app/freebookgift
 # 이벤트 프로세스
 
 ### 1. 개인정보 입력 (최대 156명)
